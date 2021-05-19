@@ -1,0 +1,9 @@
+name: gamepad-pythreejs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - rasterio
+  - ipywidgets
+  - pythreejs
