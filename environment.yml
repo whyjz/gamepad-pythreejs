@@ -5,6 +5,8 @@ channels:
 dependencies:
   - numpy
   - gdal
-  - rasterio
   - ipywidgets
   - pythreejs
+  - pip:
+    - rasterio
+
