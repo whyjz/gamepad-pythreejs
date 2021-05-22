@@ -4,9 +4,8 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - gdal
+  - gdal=3.2
   - ipywidgets
   - pythreejs
-  - pip:
-    - rasterio
+  - rasterio
 
